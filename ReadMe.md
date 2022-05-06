@@ -100,3 +100,9 @@ love()  # 함수 호출
 - attribute는 점(.) 뒤에 나오는 모든 이름입니다. **인스턴스.attribute,** **인스턴스.attribute( )**
 
 
+
+### namespace
+
+- 개체를 구분할 수 있는 범위
+
+
